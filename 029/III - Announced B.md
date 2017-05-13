@@ -1,4 +1,4 @@
-# III - Announced B
+## III - Announced B
 
 SHOCKER_DCD 發表於 2014-12-12 09:54 PM
 
