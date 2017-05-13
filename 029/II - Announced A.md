@@ -1,4 +1,4 @@
-# II - Announced A
+## II - Announced A
 
 
 謝謝大家對我這篇《淫墮的女武神》小說新章節的支持。因為不少人(包括
