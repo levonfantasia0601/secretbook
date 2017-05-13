@@ -75,5 +75,5 @@
   * [XXXI - XXXV](031/XXXI - XXXV.md)
   * [XXXVI - XXXIX](031/XXXVI - XXXIX.md)
   * [AFTER](031/AFTER.md)
-* [032.肉奴隸母親](032rou-nu-li-mu-qin.md)
+* [032.肉奴隸母親](032.md)
 
