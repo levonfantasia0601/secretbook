@@ -39,6 +39,8 @@
   * VI.征服聖女，一棒挑天慾
   * VII.荒淫的生活
 * 024.蕩母淫兒
+  * I.騷姊與淫弟
+  * II.怨母與兒子
 * 025.鄰人社內的嬌喘
 * 026.常識改変結界　―遠坂凜―
 * 027.淫魔調教系統
@@ -50,11 +52,12 @@
   * II - Announced A
   * III.參章：驚人轉折
   * III - Special.間章：神奇之墮
+  * III - Announced B
   * IV.肆章：一年之約
-  * [IV - Announced B](iv-anounced-b.md)
+  * [IV - Announced C](iv-anounced-b.md)
   * PRE.前章：緣起之初
   * V.伍章：巫王人偶
-  * [V. Announced C](v-announced.md)
+  * [V. Announced D](v-announced.md)
   * VI.陸章：青龍無瑕 
 * 030.鬥破蒼穹之千年變 
   * I.第一部：起
