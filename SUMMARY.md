@@ -42,7 +42,7 @@
   * [I.騷姊與淫弟](isao-zi-yu-yin-di.md)
   * [II.怨母與兒子](iiyuan-mu-yu-er-zi.md)
 * [025.鄰人社內的嬌喘](025.md)
-* [026.常識改変結界　―遠坂凜―](026chang-shi-gai-bian-jie-jie-2015-yuan-ban-lin-2015.md)
+* [026.常識改変結界　―遠坂凜―](026.md)
 * [027.淫魔調教系統](027.md)
 * [028.當世界的性常識崩壞之后](028.md)
 * [029.淫墮的女武神](029yin-duo-de-nv-wu-shen.md)
