@@ -76,4 +76,6 @@
   * [XXXVI - XXXIX](031/XXXVI - XXXIX.md)
   * [AFTER](031/AFTER.md)
 * [032.肉奴隸母親](032.md)
+* 033.秘密
+* 034.警花相伴
 
