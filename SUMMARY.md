@@ -91,7 +91,7 @@
   * [XXVI - XXX](034/XXVI - XXX.md)
   * [XXXI - XXXV](034/XXXI - XXXV.md)
   * [XXXVI - XL](034/XXXVI - XL.md)
-  * [XLI](034/XLI - XLIV.md)
+  * [XLI - XLIV](034/XLI - XLIV.md)
 * [035.妹妹迦俐](035.md)
 * [036.無限之催眠術士](036.md)
   * [I.誅仙篇](036/I.md)
